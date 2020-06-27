@@ -10,3 +10,10 @@ It helps to provide an intermediate stage between the working directory and what
 It also helps sort out files that would be added to commit from the ones that will not in the 
 working folder.
 
+How can you use the staging area to make sure you have one commit per logical change?
+ - The staging area contains the most recent commit until a change is added.
+ when a change is made and added to the staging area. I can compare the files in the staging
+ with files in the most recent commit. This allows me to see what changes is made 
+ with respect to what is already on the repository. By doing so, I ensure the change i'm adding
+ is a logical change before commiting.
+
