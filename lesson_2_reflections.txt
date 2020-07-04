@@ -21,5 +21,9 @@ What are some situations when branches would be helpul in keeping your history
 organized? How would branches help?
 - In situations where you'd want to try a different approach to a solution or you want to
 experiment with a feature your're not sure about, Branches helps to keep your history organized
-as all new changes are done on a new branch and you can easily revert changes to a former state.
+as all new changes are done on a new branch and you can easily revert changes to a former state/branch.
 
+How do the diagrams help you visualize the branch structure?
+- Diagrams help to vusualize how the git branch structure is formed.
+since each commit always has a reference to the previous commit, using arrows to illustrate these
+references really helps to grasp the concept.
