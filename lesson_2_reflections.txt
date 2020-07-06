@@ -31,7 +31,7 @@ references really helps to grasp the concept.
 What is the result of merging two branches together? Why do we represent it in the diagram the 
 way we do?
 - Merging branch1 into branch1 while checking out branch1 would combine the changes in branch1 latest commit and
-branch2 latest commit merge them together using an impressive algorithm and the updates the commit so that the head in branch1
+branch2 latest commit and merge them together using an impressive algorithm and the updates the commit so that the head in branch1
 is pointing to the newly created commit.
 It is a good practice to represent the branches in a diagram as it helps to visualise the structure of
 the branches.
