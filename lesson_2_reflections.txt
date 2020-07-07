@@ -16,6 +16,11 @@ How can you use the staging area to make sure you have one commit per logical ch
  with files in the most recent commit. This allows me to see what changes is made 
  with respect to what is already on the repository. By doing so, I ensure the change i'm adding
  is a logical change before commiting.
+ 
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+- Git automatic merging doesn't require human effort once the merge command is run.
+Git manual merge requires human effort. it does seem convinient since it gives u control over
+the changes to keep or remove from the final merged file.
 
 What are some situations when branches would be helpul in keeping your history
 organized? How would branches help?
