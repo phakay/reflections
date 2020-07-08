@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+- I would want to make my work on local repository globally accessible for collaboration with others.
+- It makes it flexible to work on your code since you don't have to always depend on using your computer to access your project.
