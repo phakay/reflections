@@ -7,3 +7,12 @@ automatically stay up-to-date with your remote repository?
 - It's convinient to chose when add commits from a remote repo to local because it ensures
 commits aren't disorganised since the remote repo might contain commits from other members.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of
+another?
+- Forks is simply making a copy of an existing repo along with a form of reference to the parent repo.
+it's a feature that can only be accessed in github.
+Clone is also a form of making a copy of a remote repo and copying it to your local storage.
+it's a feature used in git.
+Branch is one or a collection of commits that share a coomon <head> and reference eachother.
+it is also a feature used in git.
+
