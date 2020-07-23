@@ -16,3 +16,6 @@ it's a feature used in git.
 Branch is one or a collection of commits that share a coomon <head> and reference eachother.
 it is also a feature used in git.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- It helps to compare changes in your local repo with that in the remote repo.
+it also helps to carryout the comparism even while offline.
