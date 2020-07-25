@@ -29,7 +29,7 @@ distance barriers and differences in opinions.
 
 When would you want to make changes in a separate branch rather that directly in master?
 What benefits does each approach have?
-- I think having to create a seperate branch and make changes in them each time there a changes in 
-the master branch helps understand how the latest change affects your version.
-However, it's ok to jst make changes directly to the master as you don't have to worry about
-merging conflicts in the branch u created.
+- When contributing publically, it's standard practice to create a non-master branch and
+add changes there and then issue a pull request for your branch to be merged into master.
+it also helps keep your local master branch up-to-date with the remote master and merge
+change into your new branch before making a pull request.
