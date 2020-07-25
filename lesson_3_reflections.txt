@@ -19,3 +19,10 @@ it is also a feature used in git.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 - It helps to compare changes in your local repo with that in the remote repo.
 it also helps to carryout the comparism even while offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be
+harder?
+- To collaborate without git or GitHub, i'd imagine organising different versions of code of a project
+in a folder then putting them in a zip package. However, this would also be difficult to maintain.
+Using git and github makes collaborating a lot easier as u don't have to worry about 
+distance barriers and differences in opinions.
