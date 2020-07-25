@@ -26,3 +26,10 @@ harder?
 in a folder then putting them in a zip package. However, this would also be difficult to maintain.
 Using git and github makes collaborating a lot easier as u don't have to worry about 
 distance barriers and differences in opinions.
+
+When would you want to make changes in a separate branch rather that directly in master?
+What benefits does each approach have?
+- I think having to create a seperate branch and make changes in them each time there a changes in 
+the master branch helps understand how the latest change affects your version.
+However, it's ok to jst make changes directly to the master as you don't have to worry about
+merging conflicts in the branch u created.
